@@ -1,4 +1,5 @@
 ## Functions
-- open
-- close
-- read
+- Open
+- Close
+- Read
+- Audio
