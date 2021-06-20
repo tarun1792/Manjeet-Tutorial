@@ -1,1 +1,4 @@
-Manjeet Tutorial
+## Functions
+- open
+- close
+- read
