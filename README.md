@@ -3,4 +3,5 @@
 - Close
 - Read
 - Audio
+- Graphics
 - Video
