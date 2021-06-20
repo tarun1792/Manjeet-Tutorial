@@ -4,3 +4,4 @@
 - Read
 - Audio
 - Graphics
+- Video
